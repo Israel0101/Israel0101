@@ -1,4 +1,4 @@
-<h1 align="center">Bem vindo!</h1><img align="right" src="https://github.com/Rubenscode/Rubenscode/blob/main/img/computer.png" width="350"/>
+<h1 align="center">Bem vindo(a)!</h1><img align="right" src="https://github.com/Rubenscode/Rubenscode/blob/main/img/computer.png" width="350"/>
 
 ## Sou o Israel!
 Desenvolvedor Web Java | :alien:
